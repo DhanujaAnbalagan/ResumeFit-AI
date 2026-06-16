@@ -187,17 +187,6 @@ src/
 
 ---
 
-## Future Improvements
-
-* Resume History
-* Multi-Role Evaluation
-* Resume Comparison
-* PDF Report Export
-* LinkedIn Profile Analysis
-* AI Resume Rewriting
-* Cover Letter Generation
-
----
 
 ## Built For
 
