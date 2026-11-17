@@ -188,21 +188,6 @@ src/
 ---
 
 
-## Built For
-
-Digital Heroes Developer Trial Task
-
-Requirements Completed:
-
-* Working AI-powered tool
-* Public GitHub repository
-* Vercel deployment
-* Portfolio-ready project
-* Resume evaluation functionality
-* Digital Heroes integration
-
----
-
 ## Author
 
 **Dhanuja Anbalagan**
