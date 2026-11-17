@@ -194,7 +194,6 @@ src/
 
 Computer Science Engineering Student
 Amrita Vishwa Vidyapeetham
-
 ---
 
 ## License
