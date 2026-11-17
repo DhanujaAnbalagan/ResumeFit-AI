@@ -9,7 +9,12 @@ Built with Next.js, TypeScript, Tailwind CSS, and Google Gemini AI.
 ---
 
 
+## Live Demo
 
+🔗 Live Application: https://resume-fit-ai-izku.vercel.app/
+
+
+---
 ## Features
 
 ### AI Resume Evaluation
